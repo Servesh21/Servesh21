@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I’m a passionate Engineering Student from India .
 
 ## About Me
+- 🏫 Currently Pursuing **I.T. Engineering** from **Don Bosco Institute of Technology,Mumbai**.
 - 🌱 Currently expanding my skills in software development.
 - 🖥️ Skilled in **C**, **Java**, **JavaScript**, **HTML**, **CSS**, and **Bootstrap**.
 - 🚀 Always curious and eager to learn new technologies and frameworks.
