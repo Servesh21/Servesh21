@@ -8,11 +8,7 @@ Welcome to my GitHub profile! I’m a passionate Engineering Student from India 
 - 🖥️ Skilled in **C**, **Java**, **JavaScript**, **HTML**, **CSS**, and **Bootstrap**.
 - 🚀 Always curious and eager to learn new technologies and frameworks.
 
-## Projects
-Here are some of the projects I've been working on:
 
-### [Portfolio Management System](https://github.com/Servesh21/Portfolio_Management_System.git)
-A portfolio management system focused on mutual fund investments, featuring real-time updates, user authentication, and customizable client portfolios.
 
 ## Skills
 - **Languages**: C, Java, JavaFX,HTML,CSS,BootStrap,JavaScript
