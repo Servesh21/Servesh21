@@ -1,8 +1,11 @@
+<h1 align="center">Hi 👋, I'm Servesh Khade</h1>
+<h3 align="center">A passionate IT student from India</h3>
+
 # 💫 About Me:
 🏫 Currently Pursuing I.T. Engineering from Don Bosco Institute of Technology, Mumbai.<br>
-🌱 Expanding my skills in software development, AI & ML.<br>
+🌱 Expanding my skills in software development.<br>
 🚀 Passionate about solving real-world problems with technology.<br>
-🎮 Love gaming, music, and exploring new tech.<br>
+🎮 Love gaming, anime and exploring new tech.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/servesh_khade) 
@@ -38,5 +41,5 @@
 ---
 🚀 **Open to collaboration!** If you're working on something exciting, feel free to connect. Let's build something great together! 🔥
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
