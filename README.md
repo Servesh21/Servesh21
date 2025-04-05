@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Servesh21/Servesh21/blob/main/github-header-image.png" alt="Servesh Khade Banner"/>
+  <img src="https://github.com/Servesh21/Servesh21/blob/main/github-header-image (2).png" alt="Servesh Khade Banner"/>
 </p>
 
 
