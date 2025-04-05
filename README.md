@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Servesh Khade</h1>
-<h3 align="center">A passionate IT student from India</h3>
+<p align="center">
+  <img src="https://github.com/Servesh21/Servesh21/blob/main/github-header-image.png" alt="Servesh Khade Banner"/>
+</p>
 
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/Servesh21/count.svg)
+</p>
 # 💫 About Me:
 🏫 Currently Pursuing I.T. Engineering from Don Bosco Institute of Technology, Mumbai.<br>
 🌱 Expanding my skills in software development.<br>
